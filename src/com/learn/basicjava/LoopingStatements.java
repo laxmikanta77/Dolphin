@@ -6,7 +6,7 @@ public class LoopingStatements {
 		
 		System.out.println("Lets be successful");
 		System.out.println("1st Try");
-		System.out.println("Checking  system line");
+		System.out.println("Checking  system line.......");
 
 
 	}
