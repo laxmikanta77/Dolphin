@@ -10,6 +10,7 @@ public class LoopingStatements {
 		System.out.println("Boyy");
 
 
+
 	}
 
 }
