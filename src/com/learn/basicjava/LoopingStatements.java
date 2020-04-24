@@ -1,0 +1,11 @@
+package com.learn.basicjava;
+
+public class LoopingStatements {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Lets be successful");
+
+	}
+
+}
