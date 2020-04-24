@@ -8,7 +8,8 @@ public class LoopingStatements {
 		System.out.println("1st Try");
 		System.out.println("Checking  system line");
 		System.out.println("Boyy");
-		System.out.println("Girllll ");
+		System.out.println("Girl");
+
 
 
 
