@@ -11,7 +11,15 @@ public class LoopingStatements {
 		System.out.println("Girllllllll");
 		System.out.println("Do");
 
-
+     
+     
+     for (int i=3; i<=3; i++) {
+    	 for (int j=1; j<=20; j++) {
+    		 System.out.println(i+ " " + "*" + " "  + j + "=" + " " + i*j);
+    	 }
+    
+    	 
+     }
 
 
 	}
