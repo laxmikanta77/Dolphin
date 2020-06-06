@@ -10,6 +10,9 @@ public class LoopingStatements {
 		System.out.println("Boyy");
 		System.out.println("Girllllllll");
 		System.out.println("Do");
+		
+		System.out.println("Do");
+
 
      
      
